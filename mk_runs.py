@@ -19,7 +19,7 @@ on["Virgo_Southern_Filament"] = \
 # parameters for the first pass of the pipeline (restart=1 is automatically enforced here)
 pars1 = {}
 
-pars1["Virgo_Southern_Filament"] = ""
+pars1["Virgo_Southern_Filament"] = "shortlags=32,10.0"
 
 # parameters for the (optional) second pass of the pipeline (e.g. for bank=0)
 pars2 = {}
